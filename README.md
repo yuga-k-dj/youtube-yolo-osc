@@ -5,6 +5,7 @@ YOLOv3 PyTorch code from https://github.com/ayooshkathuria/pytorch-yolo-v3.git
 ## My Implementation Environment
 1. macOS Monterrey 12.1
 2. Python 3.7
+
 For python libraries, please check the "requirements.txt'.
 
 Using PyTorch 0.3 will break the detector.
