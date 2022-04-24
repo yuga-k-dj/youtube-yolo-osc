@@ -39,6 +39,33 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-12",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"patching_rect" : [ 617.0, 63.0, 85.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 617.0, 63.0, 85.0, 22.0 ],
+					"text" : "route umbrella"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-5",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 492.0, 63.0, 105.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 492.0, 63.0, 105.0, 20.0 ],
+					"text" : "Other Candidates"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"fontsize" : 18.0,
 					"id" : "obj-161",
 					"maxclass" : "comment",
@@ -101,10 +128,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 50.0, 556.5, 59.25, 33.0 ],
+					"patching_rect" : [ 50.0, 556.5, 62.0, 33.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
-					"presentation_rect" : [ 36.5, 318.5, 59.25, 33.0 ],
+					"presentation_rect" : [ 36.5, 318.5, 62.0, 33.0 ],
 					"text" : "Unlimited Reset"
 				}
 
@@ -132,7 +159,7 @@
 					"patching_rect" : [ 784.0, 653.0, 50.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 791.5, 364.0, 50.0, 22.0 ],
-					"text" : "423"
+					"text" : "0"
 				}
 
 			}
@@ -158,7 +185,7 @@
 					"patching_rect" : [ 664.0, 653.0, 50.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 671.5, 364.0, 50.0, 22.0 ],
-					"text" : "1127"
+					"text" : "0"
 				}
 
 			}
@@ -184,7 +211,7 @@
 					"patching_rect" : [ 542.75, 653.0, 50.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 550.25, 364.0, 50.0, 22.0 ],
-					"text" : "3639"
+					"text" : "155"
 				}
 
 			}
@@ -224,7 +251,7 @@
 					"patching_rect" : [ 423.75, 653.0, 50.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 431.25, 364.0, 50.0, 22.0 ],
-					"text" : "44"
+					"text" : "0"
 				}
 
 			}
@@ -250,7 +277,7 @@
 					"patching_rect" : [ 306.0, 653.0, 50.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 313.5, 364.0, 50.0, 22.0 ],
-					"text" : "39"
+					"text" : "0"
 				}
 
 			}
@@ -276,7 +303,7 @@
 					"patching_rect" : [ 184.5, 653.0, 50.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 192.0, 364.0, 50.0, 22.0 ],
-					"text" : "266"
+					"text" : "17"
 				}
 
 			}
@@ -851,7 +878,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 378.0, 176.0, 50.0, 49.0 ],
-					"text" : "/route backpack"
+					"text" : "/route umbrella"
 				}
 
 			}
@@ -906,7 +933,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 306.5, 118.5, 50.0, 35.0 ],
-					"text" : "backpack"
+					"text" : "umbrella"
 				}
 
 			}
